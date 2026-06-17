@@ -20,6 +20,24 @@ MindEase is an AI-powered mental health support application developed as a B.Sc.
 
 The application helps users monitor their mental well-being and provides personalized support through AI-powered recommendations.
 
+## Key Highlights
+
+* User-friendly interface
+* AI-powered emotional support
+* Personalized wellness suggestions
+* Secure and scalable architecture using Firebase
+* Cross-platform mobile application developed with Flutter
+
+## Future Enhancements
+
+* Voice Input Support
+* Advanced AI Chatbot Features
+* Daily Wellness Reports
+* Mental Health Analytics Dashboard
+* Community Support Features
+
 ## Author
 
-Sanjivani Karambale
+**Sanjivani Karambale**
+
+B.Sc. IT Graduate | Aspiring Software Developer | Flutter Developer
