@@ -1,16 +1,25 @@
-# mindease
+# MindEase - AI Mental Health Support App
 
-A new Flutter project.
+MindEase is an AI-powered mental health support application developed as a B.Sc. IT project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Mood Tracking
+* AI Chatbot Support
+* Emotion Detection
+* Meditation Recommendations
+* Personalized Wellness Suggestions
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Firebase
+* Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose
+
+The application helps users monitor their mental well-being and provides personalized support through AI-powered recommendations.
+
+## Author
+
+Sanjivani Karambale
