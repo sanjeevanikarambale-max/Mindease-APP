@@ -1,0 +1,53 @@
+name: mindease
+description: A private emotional expression and guidance app for teens.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  appwrite: ^21.0.0
+  http: ^1.2.0
+  encrypt: ^5.0.3
+
+  flutter_localizations:
+    sdk: flutter
+
+  google_fonts: ^8.0.0
+  flutter_quill: ^11.5.0
+
+  firebase_core: ^4.4.0
+  firebase_auth: ^6.1.4
+  cloud_firestore: ^6.1.2
+  firebase_messaging: ^16.1.1
+
+  flutter_slidable: ^4.0.3
+  get: ^4.6.6
+
+  flutter_tts: ^4.2.5
+  audioplayers: ^6.5.1
+  vibration: ^1.8.4    
+
+  path_provider: ^2.1.5
+  shared_preferences: ^2.2.3
+
+  local_auth: ^2.1.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/audio/
+    - assets/sounds/
+    - assets/avatars/
+    
